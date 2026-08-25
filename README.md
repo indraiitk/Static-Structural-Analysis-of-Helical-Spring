@@ -1,4 +1,4 @@
-# Static Structural Analysis of Helical Spring
+Spring Design and Energy Storage Analysis
 
 ## Project Overview
 
