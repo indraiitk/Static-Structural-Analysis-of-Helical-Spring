@@ -53,5 +53,5 @@ The strain energy stored in the spring was evaluated from the static structural 
 ## Author
 
 **Indrajit Das**  
-M.Tech – Design Engineering  
+M.Tech – Solid Mechanics and Design Engineering  
 IIT Kanpur
